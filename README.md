@@ -380,12 +380,6 @@ bioreactor-yield-prediction/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**📧 Contact**
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/bioreactor-yield-prediction](https://github.com/yourusername/bioreactor-yield-prediction)
-
 **🙏 Acknowledgments**
 
 *   Scikit-learn documentation and community
